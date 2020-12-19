@@ -1,3 +1,9 @@
+@import './bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+:root {
+  --main-color: #2391e6;
+}
 html,
 body {
   padding: 0;
@@ -13,4 +19,133 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+nav {
+  background: var(--main-color);
+}
+.brand {
+  font-family: 'Redressed', cursive;
+  font-size: 2rem;
+}
+
+.navbar {
+  font-size: 1.3rem;
+}
+
+.hero-section {
+  min-height: 450px;
+  background: url('/images/hero-bg.svg') center bottom no-repeat;
+  background-size: cover;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.hero-container {
+  display: flex;
+  flex-direction: row;
+  padding-top: 40px;
+}
+
+.hero-text {
+  max-width: 600px;
+  padding-top: 3rem;
+}
+
+.hero-img {
+  margin-left: auto;
+}
+
+main {
+  min-height: 70vh;
+}
+
+footer {
+  color: white;
+
+  min-height: 250px;
+  padding-top: 50px;
+  background: url('/images/footer.svg') center bottom no-repeat;
+  background-size: cover;
+}
+
+.section {
+  min-height: 400px;
+  margin-top: 3rem;
+}
+.tech-stack {
+  background: #f6f5f5;
+  display: flex;
+  justify-content: space-between;
+}
+
+.subscribe {
+  background: #f6f5f5;
+}
+
+.section-title {
+  font-weight: 700;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+}
+.section-title::after {
+  content: ' ';
+  display: block;
+  background: var(--main-color);
+  height: 5px;
+  width: 30%;
+  margin-top: 5px;
+}
+
+.tech-icons {
+  font-size: 8rem;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tech-icons i {
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+.social-link-item {
+  max-width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 3rem;
+}
+
+.small {
+  font-size: 0.7rem;
+}
+
+/* contact form */
+.social-lists {
+  font-weight: 600;
+  color: grey;
+  line-height: 2rem;
+}
+
+@media all and (max-width: 768px) {
+  .hero-container {
+    display: flex;
+    flex-direction: column-reverse;
+    padding-top: 10px;
+  }
+
+  .hero-text {
+    padding: 0 20px 0 0;
+    width: 100%;
+  }
+  .hero-img {
+    /* width: 100%; */
+    margin: auto;
+  }
 }

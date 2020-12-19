@@ -1,3 +1,19 @@
+### About this project
+
+Recently I came across with Francesco Ciulla on Twitter, who is introvertuber, if you don't know what does that mean, its a youtuber who is introvert. Since then he helped me to push myself out of that introvert zone. So, as a tokent of thanks, I have created this site as a christmas gift for him on behalf of all developer community.
+
+If you are looking to thanks to him for his great work in person, you can do that as well. So, to do that, please go to the file `assets/messages.json` and leave your twitter handle, thumbnail link and message, it will be published on the `/loved` page of the website.
+
+### Do the same
+
+If you feel like doing the same to someone that you admired, feel free to use this project to modify and gift to the one you love.
+
+### PR
+
+All the PR welcome.
+
+### Default stuff by nextjs
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -28,3 +44,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Disclaimer: DentedCode and Francesco reserves all the copyright.

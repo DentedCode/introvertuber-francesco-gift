@@ -1,0 +1,32 @@
+.message_card {
+  margin: 1rem;
+  width: 100%;
+  box-shadow: 5px 5px 15px 2px hsla(0, 0%, 56.5%, 0.8);
+}
+
+.twitterThumb {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  border: solid 2px #2391e61f;
+}
+
+.name {
+  font-weight: bold;
+}
+.name,
+.twitterHandle {
+  display: flex;
+  justify-content: center;
+}
+
+.twitterHandle {
+  font-weight: bold;
+  color: grey;
+}
+.message {
+  color: grey;
+}
