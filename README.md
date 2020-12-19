@@ -6,7 +6,7 @@ If you are looking to thank to him for his great work in person, you can do that
 
 ### Do the same
 
-If you feel like doing the same to someone that you admired, feel free to use this project to modify and gift to the one you love.
+If you feel like doing the same to someone that you admire, feel free to use this project to modify and gift to the one you love.
 
 ### PR
 
@@ -14,8 +14,8 @@ All the PR welcome.
 
 ### Youtube Channle
 
-- Check out my YouTube channel {`Dented Code`](https://www.youtube.com/c/DentedCode)
-- Check out Francesco YouTube channel {`FrancescoCiulla`](https://www.youtube.com/FrancescoCiulla)
+- Check out my YouTube channel [`Dented Code`](https://www.youtube.com/c/DentedCode)
+- Check out Francesco YouTube channel [`FrancescoCiulla`](https://www.youtube.com/FrancescoCiulla)
 
 ### Default stuff by nextjs
 
