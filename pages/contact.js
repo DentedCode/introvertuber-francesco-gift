@@ -35,7 +35,7 @@ export default function Contact() {
 
   const handleOnChange = (e) => {
     const { name, value } = e.target
-    console.log(name, value)
+
     resetForm()
     switch (name) {
       case 'email':
@@ -71,7 +71,6 @@ export default function Contact() {
     })
       .then((response) => response.json())
       .then((data) => {
-        console.log(data)
         setIsPendingSubmit(false)
         setFormDataError(data)
       })
