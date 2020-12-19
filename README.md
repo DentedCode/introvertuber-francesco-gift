@@ -1,8 +1,8 @@
 ### About this project
 
-Recently I came across with Francesco Ciulla on Twitter, who is introvertuber, if you don't know what does that mean, its a youtuber who is introvert. Since then he helped me to push myself out of that introvert zone. So, as a tokent of thanks, I have created this site as a christmas gift for him on behalf of all developer community.
+Recently I came across with Francesco Ciulla on Twitter, who is introvertuber, if you don't know what does that mean, its a youtuber who is introvert. Since then he helped me to push myself out of that introvert zone. So, token of appreciation, I have created this site as a christmas gift for him on the behalf of all developer community.
 
-If you are looking to thanks to him for his great work in person, you can do that as well. So, to do that, please go to the file `assets/messages.json` and leave your twitter handle, thumbnail link and message, it will be published on the `/loved` page of the website.
+If you are looking to thank to him for his great work in person, you can do that as well. So, to do that, please go to the file [`assets/messages.json`](https://github.com/DentedCode/introvertuber-francesco-gift/blob/main/assets/messages.json) and leave your twitter handle, thumbnail link and message for him, it will be published on the `/loved` page of the website.
 
 ### Do the same
 
