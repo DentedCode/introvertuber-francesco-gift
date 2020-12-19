@@ -12,6 +12,11 @@ If you feel like doing the same to someone that you admired, feel free to use th
 
 All the PR welcome.
 
+### Youtube Channle
+
+- Check out my YouTube channel {`Dented Code`](https://www.youtube.com/c/DentedCode)
+- Check out Francesco YouTube channel {`FrancescoCiulla`](https://www.youtube.com/FrancescoCiulla)
+
 ### Default stuff by nextjs
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
