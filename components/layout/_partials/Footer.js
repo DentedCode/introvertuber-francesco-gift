@@ -1,4 +1,4 @@
-import Image from 'react-bootstrap/image'
+import Image from 'react-bootstrap/Image'
 const Footer = () => {
   const socials = [
     {
