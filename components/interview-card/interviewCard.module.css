@@ -1,26 +1,21 @@
 .interview_card {
-    margin: 1rem;
-    width: 100%;
-    box-shadow: 5px 5px 15px 2px hsla(0, 0%, 56.5%, 0.8);
-}
-
-.tags {
-    font-size: 0.5rem;
-}
-
-.tags span {
-    background: cyan;
-    padding: 5px 10px;
-    margin: 3px;
-    border-radius: 5px;
+  margin: 1rem;
+  width: 100%;
+  box-shadow: 5px 5px 15px 2px hsla(0, 0%, 56.5%, 0.8);
 }
 
 .title {
-    /* font-size: 1rem; */
-    font-weight: bold;
-    /* color: grey; */
+  /* font-size: 1rem; */
+  font-weight: bold;
+  /* color: grey; */
 }
-.summary {
-    color: grey;
-    font-size: 0.8rem;
+.description {
+  color: grey;
+  font-size: 0.8rem;
+}
+
+.published_date {
+  color: grey;
+  font-weight: bold;
+  font-size: 12px;
 }

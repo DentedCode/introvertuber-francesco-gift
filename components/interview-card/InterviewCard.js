@@ -1,19 +1,29 @@
 import { Card } from 'react-bootstrap'
 import style from './interviewCard.module.css'
-const InterviewCard = ({ interview: { videoLink, title, summary, tags } }) => {
-  console.log(videoLink, title, tags)
+
+const ytPlayLink = 'https://www.youtube.com/embed/'
+const InterviewCard = ({ interview: { contentDetails, snippet } }) => {
+  const { videoId, videoPublishedAt } = contentDetails
+  const { description, title } = snippet
+
   return (
     <Card className={style.interview_card}>
-      {videoLink && (
-        <object data={videoLink} width="100%" height="300px"></object>
+      {videoId && (
+        <object
+          data={ytPlayLink + videoId}
+          width="100%"
+          height="300px"
+        ></object>
       )}
       <Card.Body>
         <Card.Title className={style.title}>{title}</Card.Title>
-        <Card.Text className={style.summary}>{summary.slice(0, 100)}</Card.Text>
-        <div className={style.tags}>
-          {tags.split('|').length &&
-            tags.split('|').map((tag) => <span> tag</span>)}
-        </div>
+        <Card.Title className={style.published_date}>
+          <i className="fas fa-clock"></i>{' '}
+          {new Date(videoPublishedAt).toLocaleDateString()}
+        </Card.Title>
+        <Card.Text className={style.description}>
+          {description.slice(0, 100)}
+        </Card.Text>
       </Card.Body>
     </Card>
   )

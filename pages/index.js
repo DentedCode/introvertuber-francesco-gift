@@ -1,3 +1,5 @@
+import fs from 'fs'
+import path from 'path'
 import { Col, Container, Row } from 'react-bootstrap'
 import MainLayout from '../components/layout/mainLayout'
 import InterviewCard from '../components/interview-card/InterviewCard'
@@ -5,11 +7,7 @@ import PostCard from '../components/post-card/PostCard'
 import SubscribeFormCard from '../components/subscribe-form/SubscribeCard'
 import MessageCard from '../components/community-love/MessageCard'
 
-import interviews from '../assets/interviews.json'
-import blogs from '../assets/blogs.json'
-import messages from '../assets/messages.json'
-
-export default function Home() {
+export default function Home({ interviews, messages, blogs }) {
   return (
     <MainLayout>
       <div className="hero-section">
@@ -33,7 +31,7 @@ export default function Home() {
           </Row>
         </Container>
       </div>
-      <Container className="latest-community-love py-4">
+      <Container className="latest-community-love py-5 mt-3">
         <Row>
           <h2 className="section-title">Latest Loved by Dev Community</h2>
         </Row>
@@ -46,8 +44,8 @@ export default function Home() {
             ))}
         </Row>
       </Container>
-      <div className="section  tech-stack">
-        <Container className=" py-4">
+      <div className="section  tech-stack  py-5 mt-3">
+        <Container className="  py-5 mt-3">
           <Row>
             <h2 className="section-title">My Tech Stack</h2>
           </Row>
@@ -59,7 +57,7 @@ export default function Home() {
           </Row>
         </Container>
       </div>
-      <Container className="section latest-interviews">
+      <Container className="section latest-interviews  py-5 mt-3">
         <Row>
           <h2 className="section-title">Latest Tech Interview</h2>
         </Row>
@@ -67,12 +65,12 @@ export default function Home() {
           {interviews.length &&
             interviews.map((row, i) => (
               <Col md="4" key={i}>
-                {i <= 3 && <InterviewCard interview={row} />}
+                {i < 3 && <InterviewCard interview={row} />}
               </Col>
             ))}
         </Row>
       </Container>
-      <Container className="section latest-blog">
+      <Container className="section latest-blog  py-5 mt-3">
         <Row>
           <h2 className="section-title">Latest Blog Posts</h2>
         </Row>
@@ -85,9 +83,43 @@ export default function Home() {
             ))}
         </Row>
       </Container>
-      <Container className="py-4">
+      <Container className=" py-5 mt-3">
         <SubscribeFormCard />
       </Container>
     </MainLayout>
   )
+}
+
+export async function getStaticProps(context) {
+  try {
+    //latest messages
+    const mfp = path.join(process.cwd(), 'assets/messages.json')
+    const msgContent = fs.readFileSync(mfp, 'utf8')
+    const messages = JSON.parse(msgContent)
+    const latestMessages = messages.reverse().slice(0, 3)
+
+    //latest interviews
+    const fp = path.join(process.cwd(), 'assets/interviews.json')
+    const content = fs.readFileSync(fp, 'utf8')
+    const interviews = JSON.parse(content)
+    const lastInterviews = interviews.reverse().slice(0, 3)
+
+    //latest blog posts
+    const bfp = path.join(process.cwd(), 'assets/blogs.json')
+    const blogContent = fs.readFileSync(bfp, 'utf8')
+    const blogs = JSON.parse(blogContent)
+    const lastBlogs = blogs.reverse().slice(0, 3)
+
+    return {
+      props: {
+        interviews: lastInterviews,
+        messages: latestMessages,
+        blogs: lastBlogs,
+      }, // will be passed to the page component as props
+    }
+  } catch (error) {
+    return {
+      props: { interviews: [] }, // will be passed to the page component as props
+    }
+  }
 }

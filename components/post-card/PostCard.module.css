@@ -1,24 +1,28 @@
 .blog_card {
-    margin: 1rem;
-    width: 100%;
-    box-shadow: 5px 5px 15px 2px hsla(0, 0%, 56.5%, 0.8);
+  margin: 1rem;
+  width: 100%;
+  box-shadow: 5px 5px 15px 2px hsla(0, 0%, 56.5%, 0.8);
+}
+
+.blog_card a {
+  text-decoration: none;
 }
 
 .tags {
-    font-size: 0.5rem;
+  font-size: 0.5rem;
 }
 
 .tags span {
-    background: cyan;
-    padding: 5px 10px;
-    margin: 3px;
-    border-radius: 5px;
+  background: cyan;
+  padding: 5px 10px;
+  margin: 3px;
+  border-radius: 5px;
 }
 
 .title {
-    font-weight: bold;
+  font-weight: bold;
 }
 .summary {
-    color: grey;
-    font-size: 0.8rem;
+  color: grey;
+  font-size: 0.8rem;
 }

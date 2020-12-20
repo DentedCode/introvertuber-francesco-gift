@@ -5,8 +5,8 @@ const PostCard = ({
   post: { title, url, date, readTime, thumbnail, summary },
 }) => {
   return (
-    <a href={url} target="blank">
-      <Card className={style.blog_card}>
+    <Card className={style.blog_card}>
+      <a href={url} target="blank">
         <Card.Img variant="top" src={thumbnail} />
         <Card.Body>
           <Card.Title className={style.title}>{title}</Card.Title>
@@ -14,8 +14,8 @@ const PostCard = ({
             {summary.slice(0, 100)}...
           </Card.Text>
         </Card.Body>
-      </Card>
-    </a>
+      </a>
+    </Card>
   )
 }
 

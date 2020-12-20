@@ -1,20 +1,571 @@
 [
   {
-    "videoLink": "https://www.youtube.com/embed/8r0oe5g_ltU",
-    "title": "Journey from a developer to mother to YouTuber - Shruti Balasa",
-    "summary": "some summary abuot the inteview",
-    "tags": "Parent| Developer"
+    "snippet": {
+      "title": "Make Videos the right way, with Adrian Twarog",
+      "description": "Adrian is a YouTuber who has been growing a lot in the last period.\n\nThis is due to his perseverance and consistency in creating videos of excellent quality, and very useful for developers."
+    },
+    "contentDetails": {
+      "videoId": "dzguqZkouGY",
+      "videoPublishedAt": "2020-10-22T12:49:46Z"
+    }
   },
   {
-    "videoLink": "https://www.youtube.com/embed/8r0oe5g_ltU",
-    "title": "Journey from a developer to mother to YouTuber - Shruti Balasa",
-    "summary": "A great story and many good tipsabout Time management and making videos",
-    "tags": "Parent| Developer"
+    "snippet": {
+      "title": "Level up your Career as a Developer - Jack Domleo",
+      "description": "Jack is a young and promising developer!\n\nWe have talked about his path to development, making videos without being an expert,  and much more about development!\n\n\nRESOURCES:\n\nJack's Youtube Channel\nhttps://www.youtube.com/channel/UCD0z_T8O5bFnHAQa9cp6QGg\n\nLevel up your career as a Developer\nhttps://levelupyourcareer.today/\n\nPersonal Site\nhttps://jackdomleo.dev/"
+    },
+    "contentDetails": {
+      "videoId": "dOwWn5GvQF0",
+      "videoPublishedAt": "2020-10-26T15:50:28Z"
+    }
   },
   {
-    "videoLink": "https://www.youtube.com/embed/8r0oe5g_ltU",
-    "title": "Journey from a developer to mother to YouTuber - Shruti Balasa",
-    "summary": "some summary abuot the inteview",
-    "tags": "Parent| Developer"
+    "snippet": {
+      "title": "Stefan Natter's road to development, Webpack , Hashnode, Open Source, and much more",
+      "description": "Personal Site:\nhttps://blog.natterstefan.me/\n\nLinkedin:\nhttps://www.linkedin.com/in/natterstefan/\n\nGitHub\nhttps://github.com/natterstefan"
+    },
+    "contentDetails": {
+      "videoId": "EyCNw0NYRFM",
+      "videoPublishedAt": "2020-10-27T16:58:54Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Time management,  start a business , how to start making videos on Youtube, ...",
+      "description": "Simon's references:\n\nTwitter API Client:\nhttps://github.com/Silind/twitter-api-client\n\nTwitter:\nhttps://twitter.com/SimonHoiberg\n\nYouTube:\nhttps://youtube.com/SimonHoiberg"
+    },
+    "contentDetails": {
+      "videoId": "CKkD5zTOz6w",
+      "videoPublishedAt": "2020-10-28T13:54:27Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Balance your coding with fitness activity, Devops, Road to development, Twitter growth,...",
+      "description": "How I Grew From 1k to 10K Followers on Twitter in Less Than 2 Months (Twitter Course)\nhttps://www.youtube.com/watch?v=Koo97gVVwdA"
+    },
+    "contentDetails": {
+      "videoId": "oeZYBDuxDRU",
+      "videoPublishedAt": "2020-10-29T08:56:18Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Consistency on social media",
+      "description": "Indian Dev Town:\nhttps://anchor.fm/indiandevtown\n\nTwitch Account:\nhttps://m.twitch.tv/ravinwashere/profile"
+    },
+    "contentDetails": {
+      "videoId": "dTHA6bEdAhA",
+      "videoPublishedAt": "2020-10-30T10:24:37Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Augmented Reality and Virtual Reality -  with Dilmer Valecillos",
+      "description": "Site:\nhttps://www.dilmergames.com/\n\nYoutube Channel:\nhttps://www.youtube.com/channel/UCHM37DnT_QGJT5Zyl4EmqcA"
+    },
+    "contentDetails": {
+      "videoId": "yYx7UENXMaw",
+      "videoPublishedAt": "2020-10-31T12:32:14Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Growing YOURSELF and your audience! Tips to become a better developer and engage with your audience",
+      "description": "HOW TO GET FOLLOWERS ON TWITTER - Danny Thompson:\nhttps://gumroad.com/a/1048671347\n\nFollow Danny on Twitter:\nhttps://twitter.com/DThompsonDev\n\nSubscribe to @DThompsonDev youtube channel!\nhttps://www.youtube.com/channel/UC8ha68gfkmh5v2a2BAx7low\n\nFollow Danny on Instagram:\nhttps://www.instagram.com/dthompsondev\n\nFollow him:\nhttps://www.linkedin.com/in/dannythompson901/"
+    },
+    "contentDetails": {
+      "videoId": "kC8tcs7Tjsc",
+      "videoPublishedAt": "2020-11-01T12:15:16Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "How an hackathon experience can change a developer's life",
+      "description": "Follow him on Twitter:\nhttps://twitter.com/nirbhayvashisht"
+    },
+    "contentDetails": {
+      "videoId": "tCfHIh1IQRk",
+      "videoPublishedAt": "2020-11-02T11:10:24Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Jenny's path to development: Ruby on Rails, Flask, VueJS, Freecodecamp",
+      "description": "Youtube Channel:\nhttps://www.youtube.com/channel/UCyOT6sWFUY2U1IYA2ZG5UxQ?sub_confirmation=1\n\nTwitter:\nhttps://twitter.com/jennypotts\n\nInstagram:\nhttps://www.instagram.com/jennyonrails/"
+    },
+    "contentDetails": {
+      "videoId": "08RuhPRq-_U",
+      "videoPublishedAt": "2020-11-03T11:05:16Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Mental Health for developers - Rojhan Paydar (Ro)",
+      "description": "Personal Site: \nhttps://www.rothecoder.com/\n\nDiscord Server:\nhttps://discord.com/invite/QbQvthG"
+    },
+    "contentDetails": {
+      "videoId": "h1_-JEsJoYs",
+      "videoPublishedAt": "2020-11-04T13:51:43Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Growing as a Software Engineer with 1-1 Mentorship - Ankur Tyagi",
+      "description": "2-1-1 Friday Newsletter: https://codelifefitness.com/2-1-1/ \n\n1-1 Mentorship: https://codelifefitness.com  or check on Gumroad https://gumroad.com/a/120386675 \n\nTwitter: https://twitter.com/TheAnkurTyagi\n\nSign up for the upcoming free e-book: https://theankurtyagi.com/free-ebook/"
+    },
+    "contentDetails": {
+      "videoId": "frDHavqReWs",
+      "videoPublishedAt": "2020-11-05T11:45:57Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Find your purpose as a developer (or not) - Santiago",
+      "description": "We talked about:\n- how important it is to always have a PURPOSE \n- his EXPONENTIAL GROWTH on TWITTER\n\nFollow him!\nTwitter: https://twitter.com/svpino"
+    },
+    "contentDetails": {
+      "videoId": "VTxskhxd1Ns",
+      "videoPublishedAt": "2020-11-06T11:36:08Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "How to create capital C Content - Ben Awad",
+      "description": "Ben Awad's YouTube Channel:\nhttps://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw\n\nBen Awad on Twitter:\nhttps://twitter.com/benawad"
+    },
+    "contentDetails": {
+      "videoId": "9Um4vsiJFnQ",
+      "videoPublishedAt": "2020-11-07T15:36:56Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "How to learn to code while having fun creating games - Ania Kubów",
+      "description": "Ania's YouTube Channel:\nhttps://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw\n\nAnia on Twitter:\nhttps://twitter.com/ania_kubow"
+    },
+    "contentDetails": {
+      "videoId": "PYl4l3u7nWg",
+      "videoPublishedAt": "2020-11-08T15:58:44Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Secrets to be successfull on YouTube - Codestackr",
+      "description": "Codestackr Youtube Channel:\nhttps://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw\n\nCodestackr Twitter:\nhttps://twitter.com/codeSTACKr"
+    },
+    "contentDetails": {
+      "videoId": "pQ5fk-9ndy0",
+      "videoPublishedAt": "2020-11-09T13:51:56Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Freelancing as a developer in the right way - Kyle Prinsloo",
+      "description": "The complete web development Bundle:\nhttps://gumroad.com/a/221869171\n\nSIte:\nhttps://studywebdevelopment.com/\n\nKyle on Twitter:\nhttps://twitter.com/study_web_dev\n\nKyle on youtube:\nhttps://www.youtube.com/channel/UCZkRBHPGEt809C-9ju0I5hA\n\nKyle on Instagram:\nhttps://www.instagram.com/studywebdevelopment"
+    },
+    "contentDetails": {
+      "videoId": "oWTFvN2ykoA",
+      "videoPublishedAt": "2020-11-10T12:48:34Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "From Commodore 64 to Nearform, Node TSC, PinoJS, Fastify (+Amazing tips for devs) - Matteo Collina",
+      "description": "In this video, we will know the story of how Matteo jumped into development and NodeJS.\n\nIt also contains insanely good tips for every developer.\n\nThere is no such thing as luck by Matteo Collina (NearForm) - Inspirational\nhttps://www.youtube.com/watch?v=SJjvafV7xlU&ab_channel=Codemotion\n\nBuild a Community, Not a Framework - Matteo Collina, NearForm:\nhttps://www.youtube.com/watch?v=e0rdy7APH-o\n\nNode Summit 2016 - The Cost of Logging\nhttps://vimeo.com/180476148\nhttps://www.youtube.com/watch?v=zja-_IYNrFc&ab_channel=NearForm\n\nMatteo on Twitter:\nhttps://twitter.com/matteocollina"
+    },
+    "contentDetails": {
+      "videoId": "AX76PwCInRc",
+      "videoPublishedAt": "2020-11-11T11:30:57Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "From Marketing, Chemistry, Makeup to development. How to use previous job experiences - Ría Corpeno",
+      "description": "In this video, we will talk with Ría Corpeno, from New York, about all her previous jobs, the switch to development, her upcoming article post, and the importance of exercise being a developer.\n\nRía Article:\nhttps://mariacorpeno.com/programming/the-5-ws-of-programming/\n\nRía On Twitter:\nhttps://twitter.com/RiaCorpeno"
+    },
+    "contentDetails": {
+      "videoId": "xWbXL478110",
+      "videoPublishedAt": "2020-11-12T14:08:08Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "From Development to Wine industry and back again. How to get clients by drinking Beer! - Niall Maher",
+      "description": "This is the story of this awesome Irish guy, who found in development a way to fulfill his dreams. \nWe have also talked about building a brand and how he started his youtube journey during the lockdown in 2020 for COVID19\n\nNiall Youtube Channel:\nhttps://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw\n\nNiall on Twitter:\nhttps://twitter.com/nialljoemaher"
+    },
+    "contentDetails": {
+      "videoId": "cC56kHRiWV4",
+      "videoPublishedAt": "2020-11-13T13:08:04Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Sales as a developer, using communication in the right way - Jose R. Rosado",
+      "description": "We have talked about:\n0:00 introduction\n6:57 fundamentals of sales\n20:43 fundamentals of communications\n34:08 communication on podcasts, levels of energy\n42:18 learning fast as a skill\n50:32 Socials and teleprompter\n59:00 Community aspect of the Tech World\n1:05:11 Being Authentic, feedbacks\n1:14:15 For every hater, you will have 100 people encouraging you\n1:18:04 Repetition of ideas\n1:24:08 Final Message\n-----\n► BLOG | https://rosa.do\n► FOLLOW ● Twitter | https://twitter.com/joserosado\n► FOLLOW ● Instagram | https://instagram.com/joserosadohq\n► SUBSCRIBE  ● https://rosa.do/newsletter"
+    },
+    "contentDetails": {
+      "videoId": "BOpR1B8_KG4",
+      "videoPublishedAt": "2020-11-14T13:33:16Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Authenticity and brave decisions to follow your dreams - Thomas Weibenfalk",
+      "description": "*This is the first interview of Thomas Weibenfalk available on the Internet*\n\nWe have talked about:\n- His secret degree!\n- Course creation\n- Youtube experience (and great thumbnails!)\n- Issues with Italian and Swedish accent\n- Authenticity on Social Media\n---------------------------------------\nThomas Weibenfalk\n► SITE ● https://www.weibenfalk.com/\n► FOLLOW ● Twitter | https://twitter.com/weibenfalk\n► SUBSCRIBE  ● https://www.youtube.com/user/Weibenfalk\n---------------------------------------\nFrancesco Ciulla\n► NEWSLETTER● https://francescociulla.com/newsletter\n► FOLLOW ● Twitter | https://twitter.com/FrancescoCiull4\n► FOLLOW ● Instagram | https://www.instagram.com/francescociullaroma\n► BLOG● https://francescociulla.com"
+    },
+    "contentDetails": {
+      "videoId": "km-kdGXWGuo",
+      "videoPublishedAt": "2020-11-15T14:24:11Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Confidence is a learned skill: lessons from an opera singer turned web developer -  Anna McDougall",
+      "description": "We have talked about:\n- Her journey from Australia to Germany\n- Her past as an Opera Singer!\n- Her wish to become a developer as a long-term choice\n- Confidence is a skill\n- On-Stage Anxiety\n\n---------------------------------------------------------------------------------------------------\nAnna McDougall\n► SITE ● https://ajmcdee.github.io/links/\n---------------------------------------------------------------------------------------------------\nFrancesco Ciulla\n► NEWSLETTER● https://francescociulla.com/newsletter\n► FOLLOW ● Twitter | https://twitter.com/FrancescoCiull4\n► FOLLOW ● Instagram | https://www.instagram.com/francescociulla\n► BLOG● https://francescociulla.com"
+    },
+    "contentDetails": {
+      "videoId": "uJxYr0vQW6A",
+      "videoPublishedAt": "2020-11-16T16:04:49Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Developers' Community is about people, not code (+ Vuejs explanation) - Marc Backes",
+      "description": "We have talked about:\n- Marc's journey to development, by traveling all around the world\n- His great experience with VueJS\n- What makes a community a great one.\n\nMarc Backes\n► SITE ● https://marc.dev/\n► FOLLOW ● https://twitter.com/themarcba\n► SUBSCRIBE  ● https://www.youtube.com/channel/UC38jZDIKCdoB4H-XaDarrkA\nEvan You Interview: https://www.youtube.com/watch?v=cfCO7OYYk3w\n\nWhiskey Wednesday\n► SUBSCRIBE  ● https://www.youtube.com/channel/UC3ob2PbcsXT3IIMX--wLEfg"
+    },
+    "contentDetails": {
+      "videoId": "hr0zmhFuXS0",
+      "videoPublishedAt": "2020-11-17T10:10:34Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Public Speaking/Youtube Channel experience as a Teacher Developer Advocate - James Q Quick",
+      "description": "We have talked about:\n- How he became a developer (almost by mistake!)\n- His public speaking experience\n- His YouTube Channel story\n\n---------------------------------------------------------------------------------------------------\nJames Q Quick\n🌐 SITE ● https://www.jamesqquick.com/\n🐦 TWITTER ● https://twitter.com/jamesqquick\n📷 INSTAGRAM ● https://www.instagram.com/jamesqquick/\n🎥 YOUTUBE ● https://www.youtube.com/c/jamesqquick\n\n---------------------------------------------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com"
+    },
+    "contentDetails": {
+      "videoId": "VW27-n6A5Ns",
+      "videoPublishedAt": "2020-11-18T13:25:00Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Enjoy what you are doing as a developer (or not) + Her SECRET! - Pauline P. Narvas (aka Pawlean)",
+      "description": "There are moments, in our lives, when we realize we don't have to do what we have been told to be. \n\nWe can also pursue our dreams if we have the chance.\n\nAnd this is what Pauline did.\nI am so proud of you!!!\n\nWe have talked about\n- Her story (since she was 8 years old!)\n- Public Speaking (Since her first experience!)\n- Everything Blog\n- Podcast\n- Body health\n\n---------------------------------------------------------------------------------------------------\nPauline Narvas\n🌐 SITE ● https://paulinenarvas.com/\n📝 BLOG ● https://pawlean.com/\n🐦 TWITTER ● https://twitter.com/paulienuh\n📷 INSTAGRAM ● https://www.instagram.com/paw.lean\n🎥 YOUTUBE ● https://www.youtube.com/c/PaulineNarvas\n🎙️ PODCAST ● https://podcast.pawlean.com/\n💼 LINKEDIN ● https://www.linkedin.com/in/pnarvas\n\n---------------------------------------------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com"
+    },
+    "contentDetails": {
+      "videoId": "4yrZJMxK_Gw",
+      "videoPublishedAt": "2020-11-19T11:11:15Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Quincy Larson - freeCodeCamp as a resource to learn to code and more in 2020/2021",
+      "description": "We have talked about:\n\n- Quick Recap of the story of freeCodeCamp and important moments for the evolution of freeCodeCamp\n- freeCodeCamp in 2020\n- COVID19 impact on freeCodeCamp\n- freeCodeCamp in 2021\n- Why is freeCodeCamp so successful\n- The role of the newsletter for freeCodeCamp (5 is the magic number!)\n- Use freeCodeCamp from mobile\n- Idea: Record yourself while doing freeCodeCamp certifications\n- Final message for new developers\n\nUseful Links:\n---------------------------------------------------------------------------------------------------\n🔥freeCodeCamp\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nhttps://devdocs.io/\n---------------------------------------------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com"
+    },
+    "contentDetails": {
+      "videoId": "3_PaazxmMVg",
+      "videoPublishedAt": "2020-11-20T14:33:54Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Tadas Petra - How to start YouTube with 0 online presence + Flutter made simple",
+      "description": "We have talked about:\n\n- His YouTube Channel\n- Flutter\n- Dart Language\n- Second YouTube Channel\n- Startup Idea!\n\n---------------------------------------------------------------------------------------------------\nTadas Petra\n🐦 TWITTER ● https://twitter.com/tadaspetra\n🎥 YOUTUBE ● https://www.youtube.com/tadaspetra\n---------------------------------------------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n---------------------------------------------------------------------------------------------------\n\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!\n\n---------------------------------------------------------------------------------------------------"
+    },
+    "contentDetails": {
+      "videoId": "5Rf2n7YvC-w",
+      "videoPublishedAt": "2020-11-21T13:16:15Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Scott Spence - Jamstack and how a developer series can start without planning it!",
+      "description": "We have talked about:\n- Twitter Algorithm (aka \"the Beast\")\n- JamStack\n- Jekyll\n- Gatsby \n- GraphQL Experience\n- Whiskey Wednesday (The story of how it started!)\n\n---------------------------------------------------------------------------------------------------\nScott Spence\n🌐 SITE ● https://twitter.com/spences10\n🐦 TWITTER ● https://twitter.com/spences10\n\nWhiskey Wednesday\n🍷 WW ● https://www.youtube.com/channel/UC3ob2PbcsXT3IIMX--wLEfg\n\n---------------------------------------------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n---------------------------------------------------------------------------------------------------\n\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!\n---------------------------------------------------------------------------------------------------"
+    },
+    "contentDetails": {
+      "videoId": "5pCZaMh2QWk",
+      "videoPublishedAt": "2020-11-22T13:40:46Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Faye Sipiano - If you trust in the Dev Community, you will never FALL",
+      "description": "We have talked about:\n- WeStryve\n- Her Journey through the pandemic\n- Experience with Vuejs\n- Her sense of humor\n- Social Experience\n\n---------------------------------------------------------------------------------------------------\nFaye Sipiano \n🌐 SITE ● https://dev.to/javascriptcoff1\n🐦 TWITTER ● https://twitter.com/JavaScriptCoff1\n\n---------------------------------------------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n---------------------------------------------------------------------------------------------------\n\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!\n---------------------------------------------------------------------------------------------------"
+    },
+    "contentDetails": {
+      "videoId": "022umAZ7DDM",
+      "videoPublishedAt": "2020-11-23T13:17:50Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Seema Saharan - Introverts can start their Youtube Channel if they really want to",
+      "description": "We have talked about:\n- Her YouTube Channel\n- Women in Tech\n- Evolution of her youtube channel\n- Lockdown\n- Start a YouTube Channel as an introvert\n\n---------------------------------------------------------------------------------------------------\nSeema Saharan\n🌐 BLOG ● https://bashwoman.hashnode.dev/\n🐦 TWITTER ● https://twitter.com/SeemaSaharan5\n🎥 YOUTUBE ● https://www.youtube.com/BashWoman\n\n---------------------------------------------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n---------------------------------------------------------------------------------------------------\n\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!\n---------------------------------------------------------------------------------------------------"
+    },
+    "contentDetails": {
+      "videoId": "XhANODKeoBY",
+      "videoPublishedAt": "2020-11-24T11:12:21Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Jaime Jorge - The story and the future of Codacy as a devops tool",
+      "description": "We have talked about:\n\n- The story of Codacy\n- The future plans\n- Pricing policy\n- My challenge\n\n---------------------------------------------------------------------------------------------------\nJaime Jorge\n🐦 TWITTER ● https://twitter.com/jaimefjorge\n---------------------------------------------------------------------------------------------------\nCodacy\n🌐 SITE ● https://www.codacy.com/\n🐦 TWITTER ● https://twitter.com/codacy\n---------------------------------------------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n---------------------------------------------------------------------------------------------------\n\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!\n---------------------------------------------------------------------------------------------------"
+    },
+    "contentDetails": {
+      "videoId": "FK8Pgdzt-lU",
+      "videoPublishedAt": "2020-11-25T12:42:53Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Michael Irwin - The story and the future of Docker in the DevOps world, from a Docker Captain",
+      "description": "We have talked about:\n- Virginia Tech University role\n- How we get into Docker\n- How he became a Docker Captain\n- His current works\n- Evolution Kubernetes and beyond\n- Future plans\n- Twelve-Factor app \n\n-----------------------------------------------------------------\nMichael Irwin\n🌐SITE ●https://keybase.io/mikesir87\n🐦 TWITTER ● https://twitter.com/mikesir87\n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "43B15Vd7MlM",
+      "videoPublishedAt": "2020-11-26T10:43:26Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Nader Dabit - How to become experts in a development area from scratch, with the snowball effect",
+      "description": "We have talked about\n- His story\n- His experience with Stackoverflow\n- AWS (Amazon Web Services)\n- Public Speaking\n\n-----------------------------------------------------------------\nNader Dabit\n🐦 TWITTER ● https://twitter.com/dabit3\n🐱 GITHUB ● https://github.com/dabit3\n🎥 YOUTUBE ● youtube.com/naderdabit\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "KwcoT6NLByM",
+      "videoPublishedAt": "2020-11-27T15:51:45Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Pratham: Coding in a different way by becoming a CSS enthusiast (who still need to Google!)",
+      "description": "We have talked about:\n- His story\n- CSS\n- Twitter experience\n- Experience as an Indian Computer science student\n\nPratham Kumar\n🐦 TWITTER ● https://twitter.com/Prathkum\n🎨 CODEPEN ● https://codepen.io/prathamkumar \n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!\nhttps://codepen.io/prathamkumar"
+    },
+    "contentDetails": {
+      "videoId": "rPP-umPNk5M",
+      "videoPublishedAt": "2020-11-28T12:32:39Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Marko Denic - Learning in public: Experience from a full-stack developer. 100 Days of Code challenge",
+      "description": "We have talked about:\n- His past as a mechanical engineer\n- Frontend: VueJS\n- Backend: PHP with Laravel\n- Learn in public\n- 100days of code challenge\n- Use of socials\n- Celebration of successes\n\n-----------------------------------------------------------------\n\nMarko Denic\n🌐 SITE ● https://markodenic.com/\n🐦 TWITTER ● https://twitter.com/denicmarko\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!\nhttps://codepen.io/prathamkumar"
+    },
+    "contentDetails": {
+      "videoId": "v2PXe19lsEg",
+      "videoPublishedAt": "2020-11-29T14:50:35Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Hassan El Mghari - Establishing credibility and startups for software engineers.",
+      "description": "We have talked about:\n- How he created a Steam community from zero\n- Moderate a community\n- From ReactJS moderator to web development!\n- 40 applications, 1 response. you only need one \"Yes\"\n- The gamer's mindset\n- Entrepreneurship as a developer\n\n-----------------------------------------------------------------\nHassan El Mghari\n🌐 SITE ● https://www.elmghari.com/\n🐦 TWITTER ● https://twitter.com/Nutlope\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "YB_JczuaMrA",
+      "videoPublishedAt": "2020-11-30T12:55:24Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Mina - Inspire and getting inspired as a developer.",
+      "description": "We have talked about:\n\n- Her story \n- Her future plans with javascript\n- Inspiring people\n- Experience with YouTube and editing videos\n- Livestreams\n- Create videos and improve\n- Social Media Experience\n- 100 Days of code Challenge\n\nMina\n🌐https://msha.ke/codeanddream/\n🐦 TWITTER ● https://twitter.com/codeanddream\n🎥 YOUTUBE ● https://www.youtube.com/c/CodeandDream\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "lJpWHsWe_qY",
+      "videoPublishedAt": "2020-12-01T10:49:44Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Dennis Ivy - How he went from 0 to 100k subs on Youtube in 1 year with no online presence (RISKY).",
+      "description": "We have talked about:\n- His first job as a developer\n- The risky decision\n- Youtube BOOM\n- His First youtube Video Experience (!)\n- Topics covered in YouTube Channel\n- His \"25 Clients video\": https://youtu.be/05wLHGWphcc\n- Confidence in making videos\n- Watching old videos...so cringe\n- Make 100 crappy youtube videos: https://www.youtube.com/watch?v=OnUBaQ1Sp_E&ab_channel=RobertoBlake\n- Future plans!\n- Use of socials\n- Final question: Was that risky decision worth it?\n\nDennis Ivy\n🎥 YOUTUBE ● https://www.youtube.com/c/dennisivy\n🐦 TWITTER ● https://twitter.com/dennisivy11\n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "OXVjBpBzrmM",
+      "videoPublishedAt": "2020-12-02T14:00:11Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Ahmad Awais — Learning who you are as a person and a developer will serve you well!",
+      "description": "We have talked about:\n- His story and the past as a football player\n- His study as an electrical engineer\n- How we got in touch with the development\n- His first course:\n- His second course:\n- issues as a native speaker\n- know who we are can be helpful\n- Social media experience\n\nAhmad Awais\n🐦 TWITTER ● https://twitter.com/MrAhmadAwais\n🌐 SITE ● https://ahmadawais.com/\nCourses: \n● https://NodeCLI.com  · Learn to build Node.js CLI DevTools for Automation (first 12 videos are free)\n● https://VSCode.pro · Become a VSCode Power User with 200+ Tips & tricks\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "KNP0maIkKx4",
+      "videoPublishedAt": "2020-12-03T14:49:58Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Devin Ford - Switch Career at 30+, Discord Server, Twitter Experience",
+      "description": "We have talked about:\n\n- His current job\n- Why he decided to switch career\n- First experiences with coding\n- Git and GitHub\n- Discord Experience! \n- Socials: Twitter Experience!\n- Social Media game\n- The Twitter Algorithm\n- Plans for the future as a developer\n- DevOps\n- WeStryve\n- OFF TOPIC: 911 call!\n\nDevin Ford\n🌐 SITE ● https://devinford.dev/\n🐦 TWITTER ● https://twitter.com/devinDford\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "42Ic9Shn8TI",
+      "videoPublishedAt": "2020-12-04T10:22:17Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Kassandra Sanch - How to get started with CSS art!",
+      "description": "We have talked about:\n- Her past in Architecture\n- @Ellie HTML \n- Passion for drawing!\n- CSS art \n- First CSS project\n- Time \"wasted\" on projects who nobody will ever see\n- Last CSS art project\n- The importance of good comments!\n- How to get started with CSS\n- Social Experience: Twitter Dev community\n\nKassandra Sanch\n🐦 https://twitter.com/KassandraSanch\n🌐https://www.cssartist.com/\n\nPolaroid camera:\nhttps://codepen.io/kassandrasanch/pen/WNxJZyz\n\nKeyboard:\nhttps://codepen.io/kassandrasanch/pen/ExyrGKR\n\nKitchen Mixer\nhttps://codepen.io/kassandrasanch/pen/VweNrRR\n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "b8sETb4Fi2Q",
+      "videoPublishedAt": "2020-12-05T14:47:43Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Dimitri Ivashchuk: Tweetastic is Fantastic! | GraphQL | Public Speaking as a non-native speaker",
+      "description": "We have talked about:\n- Dev as a hobby in the beginning\n- The begin: HTML\n- T--shaped developer\n- Devops, Docker\n- GraphQL (and Apollo)\n- Tweetastic: A useful TOOL! \n- Public Speaking: First video experience\n\nPeople nominated:\n@Florin Pop, @Catalin Pit \n\nDimitri Ivashchuk\nTWEETASTIC ● 🐦 https://www.tweetastic.app/ \n\n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "RXdDZUor5eU",
+      "videoPublishedAt": "2020-12-06T11:06:41Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Eleftheria Batsou - How challenges can help you to improve in a skill!",
+      "description": "We have talked about:\n- How did she become a developer\n- Graduation\n- Internship in Amsterdam\n- 100 Days of Code Challenge\n- Her First Job\n- Her current job as a teacher\n- Public speaking: first experience in Denmark\n- Youtube experience\n- Improve your gear as you improve!\n- Ideas, Ideas, Ideas, write them down!\n- Covid situations\n- Socials Experience\n- Final advice to get started\n\nEleftheria Batsou @Eleftheria Batsou \n🐦 TWITTER ● https://twitter.com/BatsouElef\n🎥 YOUTUBE ●  https://www.youtube.com/c/eleftheriabatsou\n📷 INSTAGRAM ● https://www.instagram.com/elef_in_tech/\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "k3euQWFBgIk",
+      "videoPublishedAt": "2020-12-07T13:20:54Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Mads Brodt - Improve your mindset and land a job as a developer",
+      "description": "We have talked about:\n0:00 Welcome to my 1000th subscriber!\n2:15 Mads' Story\n4:55 How he realized he wanted to be a developer and landing first and second job, and The problem with Cs degree\n10:28 Difference between the first and the second job\n15:00 The right mindset TIPS\n🔴24:14 The SECRET!\n29:22 Tips when learning to code: OTHER SKILLS!\n35:00 Habits over Empty Goals. Future plans\n🔴40:14 Mastering Coding Mindset\n48:30 You only need one job. Socials\n51:44 Final Message \n\nMads Brodt\n🐦 TWITTER ● https://twitter.com/madsbrodt\n📖https://madsbrodt.com/mastering-coding-mindset/\n✉️ NEWSLETTER ● https://junior-dev-tips.netlify.app/\n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "IV5-TOTFDVU",
+      "videoPublishedAt": "2020-12-08T12:16:19Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Daniel Vassallo - \"Lifestyle First\" approach to life. For developers and not.",
+      "description": "Chapters:\n0:00 Welcome and Story. First  Experiences as a developer\n4:50 Crucial point in the career: decrease of Motivation, Decision!\n8:46 It's hard to find motivation every day if you work for others' dreams\n12:54 \"Lifestyle first\" approach to life\n14:54 First Book: The Good Parts of AWS.\n19:16 Is the life line or a circle? Take the right train.\n22:15 Second product: \"Everyone Can Build a Twitter Audience\"\n26:36 Copying or be inspired? Living an unconventional life\n29:35 Future Plans. \n32:35 Philosophical approach\n34:00 Earn more money to have a better life? Less is More\n39:08 Modernity's bug\n\nDaniel's incredible products:\n\n1️⃣The Good Parts of AWS: \nhttps://gumroad.com/a/698971251/MsVlG\n\n2️⃣Everyone Can Build a Twitter Audience:\nhttps://gumroad.com/a/698971251/PBkrO\n\nDaniel Vassallo\n🐦 TWITTER ● https://twitter.com/dvassallo\n🌐 USERBASE ● https://userbase.com/\n🌐 AMA ● https://smallbets.circle.so/c/ama\n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "MjR3O1uFN0c",
+      "videoPublishedAt": "2020-12-09T16:30:29Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Jhey Tompkins: Not only a CSS artist but an Amazing Person.",
+      "description": "Timestamps:\n0:00 Welcome and honest feedback\n3:30 Jhey's story. You don't have to be sedentary to be a developer!\n10:16 Dev Experiences. Codepen\n13:06 Snowball Effect!\n16:25 Why are you doing this? What's the point? One answer: ART\n18:52 His Notebook! Current Year\n21:45 Twitter poll: Should I do the XYZ thing?\n25:30 Cool things on Streams! MY challenge\n28:28 @Ben Awad.\n30:00 Freelancing  \n33:29 @Study Web Development\n33:50 Be active as a developer! Nearform\n36:37 Social experience: Twitter, Twitch\n41:25 Show your work \n44:12 Secret about success!\n45:30 @DThompsonDev course\n46:35  Do this if you want to make Jhey angry!\n52:20 Just be yourself\n\nJhey Tompkins\n🐦TWITTER ● https://twitter.com/jh3yy\n🎨CODEPEN  ● https://codepen.io/jh3y\n💻GITHUB ● https://github.com/jh3y\n🖌️CSS TRICKS ● https://css-tricks.com/author/jheytompkins/\n📰SMASHING MAGAZINE ● https://www.smashingmagazine.com/author/jhey-tompkins/\n💜TWITCH ● https://www.twitch.tv/jh3yy\n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "gXdt8WifoeE",
+      "videoPublishedAt": "2020-12-10T13:58:40Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Failed challenges and fears must not stop us from creating content for devs' community- Ayushi Rawat",
+      "description": "Timestamps:\n0:00 Welcome!\n2:41 The Choice: Python. Amazing people on Twitter!\n4:05 Reading, but also Writing. Waking up, in the right way\n6:35 Challenges!\n12:14 The fear in the beginning. Feedbacks are important\n16:53 YouTube Channel. Problems in making videos \n25:40 Socials\n29:25 People behind monitors and keyboards\n33:22 People from India: Ravinwashere, Ankur, Nirbhay, @Bash Woman , Pratham, Shruti, ...\n36:05 My first \"interview\" with @Adrian Twarog \n40:15 Final message. \n\nAyushi Rawat\n🐦 TWITTER ● https://twitter.com/ayushi7rawat\n🎥 YOUTUBE ● https://www.youtube.com/ayushirawat\n✏️ BLOG ● https://ayushirawat.com/\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER ● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG ● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "XOOjsbk43i0",
+      "videoPublishedAt": "2020-12-11T15:36:33Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Working from home remotely as a developer before it was cool - Telmo Goncalves",
+      "description": "Timestamps:\n0:00 Welcome\n1:34 Start of Telmo's Story\n3:43 In the beginning, we all suck. First Photoshop experience\n5:32 Startup experience. Great advice.\n10:52 Make promotion and be patient. Tattoo analogy!\n13:15 Another approach. Get Angry clients!\n16:51 Remote Working from an Expert on this field. Take good habits\n23:08 Breaks are good. Working remotely is good but it can be dangerous\n25:43 TWITTER!  Catalin Pit, Marc Backes. Insane tip for 10K+ accounts, Meta-commenting\n35:15 Tech Twitter Community\n40:34 There are people behind the monitors\n44:00 Biography on Twitter and bye!\n\nTelmo Goncalves\n🐦 TWITTER ● https://twitter.com/telmo\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER ● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG ● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/"
+    },
+    "contentDetails": {
+      "videoId": "KPq-gH-IhXw",
+      "videoPublishedAt": "2020-12-12T15:16:10Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Lucid Dreaming using Arduino - Dashiell Bark-Huss",
+      "description": "We have talked about her two projects: The first one is a project about LUCID DREAMING, done with Arduino. The second one is a Wishlist for content creators\n\n0:00  Not a \"Standard\" Developer. A Van, A codebook, 100 days of Code\n2:45 Lucid Dreaming\n5:13 Showing Arduino devices!\n8:32 How it works\n11:36 Working with IoT devices: Applications and use cases. An Open-source project\n14:48 An Open-source project, A component to filter the signal, and done?\n19:19 Testing while sleeping...for real! \n22:05 Software business for Onlyfans\n26:05 Do market research BEFORE coding!\n27:48 Developers: Artistic-Minded People\n32:25 The Lucid Dreaming project final message: a very cool project\n33:33 Where to find her: Socials and GitHub Log\n\n-----------------------------------------------------------------\nDashiell Bark-Huss\n🐦 TWITTER ● https://twitter.com/DashBarkHuss\n💼 LINKEDIN ● https://www.linkedin.com/in/dashbh/\n📷 INSTAGRAM ● https://www.instagram.com/dashbarkhuss\nGitHub Log\nhttps://github.com/DashBarkHuss/100-days-of-code/blob/master/post-log.md\n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER ● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG ● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "3taZS5D1Jl8",
+      "videoPublishedAt": "2020-12-13T16:07:23Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Hashnode: giving voice to people with a blogging platform for Developers - with Sandeep Panda",
+      "description": "Join Hashnode!\nhttps://hashnode.com/@FrancescoCiulla/joinme\n\nWe have talked about\n0:00 Namaste. 10 years of coding. From Q&A to a Blog Platform\n2:25 The Story of Hashnode. Advantages\n6:51 My Experience with Hashnode: Amazing Community\n8:58 First \"Featured\" BADGE on Day 1\n9:26 New Features on Hahnode!\n11:52 Pages on Hashnode: My Newsletter: https://francescociulla.com/newsletter\n14:27 It's ALWAYS about People.\n17:08 Open-minded approach is the winning one\n20:40 The power of word of mouth\n21:25 Q&A and AMA on hashnode\n22:55 Voice to people.\n25:00 Giving importance to small and big things\n26:25 Socials\n29:28 Thank you\n\nHashnode:\nhttps://t.co/yLe78jZPDS?amp=1\n🐦 TWITTER ● https://twitter.com/hashnode\n\nSandeep Panda\n🐦 TWITTER ● https://twitter.com/Sandeepg33k\n\n-----------------------------------------------------------------\nFrancesco Ciulla\n✉️ NEWSLETTER ● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG ● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "-u5nMyALYPQ",
+      "videoPublishedAt": "2020-12-14T15:42:15Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Starting a blog is useful for others, but also for you!  - with Edidiong Asikpo",
+      "description": "Chapters:\n\n0:00 Welcome. Her Interesting Story\n4:20 Nigerian Developer Community\n7:20 She Code Africa\n10:20 2020 and 2021: Hard times but also an opportunity\n11:38 Hashnode: The Blogging platform for developers.\n17:35 My thoughts about Hashnode\n20:45 Her Articles on Hashnode\n23:16 Start Blogging to be helpful and feel useful\n28:35 Future of Hashnode\n31:05 The Situation in Nigeria\n33:51 Best luck to Nigerian Community\n\nEdidiong Asikpo\n🌐 SITE ● https://edidiongasikpo.com/\n🐦 TWITTER ● https://twitter.com/Didicodes\n\nFrancesco Ciulla\n✉️ NEWSLETTER ● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG ● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "4df1eirXcII",
+      "videoPublishedAt": "2020-12-15T13:23:17Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "How to create a standout developer career - with Randall Kanna",
+      "description": "We have talked about:\n\n0:00 Welcome. Her Story, Bootcamp\n3:01 \"The Standout Developer\". The story\n5:28 How much time for writing the book. And why that's so useful\n8:42 The habit of writing, and her hard path in learning how to code.\n11:33 My challenge and checkmarks. Habit\n14:10 Amazing developers who are helping me\n17:40 The Standout Career\n22:00 Imposter Syndrome and Tech Twitter\n27:20 Sometimes you need to slow down. Developer parents ar superheros\n29:30 More about \"The Standout Career\"\n32:39 Hating in selling ourselves\n34:30 \"Real Engineers are not on Twitter\"\n36:20 Improve Communication Skill\n39:10 Where can we find her. Final Message \n\n\"The Standout Developer\":\nhttps://gumroad.com/a/1016689779\n\n\"The Standout Career\"\nhttps://gumroad.com/l/xOzJU\n\nRandall Kanna\n🐦TWITTER ● https://twitter.com/RandallKanna\n🌐SITE ● https://randallkanna.com/\n\n\nFrancesco Ciulla\n✉️ NEWSLETTER ● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG ● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "tdajsyYRDbg",
+      "videoPublishedAt": "2020-12-16T13:53:25Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Programming jokes from a Microsoft Software Engineer! - with Carla Codes",
+      "description": "Chapters:\n\n0:00 Welcome\n0:54 Her story\n3:20 Path to current job\n5:38 Videos and youtube channel!\n8:30 Programming Jokes: Twitter account on Fire! The First rule of programming...\n13:40 Plans for the future\n15:40 Automation\n17:10 Recognizable Jokes!\n19:08 Not a standard developer!\n20:59 When you have to explain jokes\n23:57 Goodbye!\n\nCarla Codes\n🐦 TWITTER ● https://twitter.com/CodesCarla\n🎥 YOUTUBE ● https://www.youtube.com/channel/UCnyWSONkScKMxut5g8iGi0A/\n\nFrancesco Ciulla\n✉️ NEWSLETTER ● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG ● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "lWBr7wzoTEw",
+      "videoPublishedAt": "2020-12-17T14:20:28Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Journey from a developer to mother to YouTuber - Shruti Balasa",
+      "description": "Chapters:\n\n0:00 Welcome. thanks @Ayushi Rawat \n1:12 How she discovered Coding, Internship\n5:24 After graduation. Coding and web development...and quitting JOB!\n8:00 Maternity break...and developing a course!\n9:21 Twitter and YouTube Channel\n11:47 YouTube Channel\n16:57 Last video, Checking other people content as a content creator\n19:08 Time Management \n23:58 Perception of time\n27:02 Just Start\n30:12 @Adrian Twarog : Best Commenter ever.\n31:08 Socials\n\nShruti Balasa\n🐦 TWITTER ● https://twitter.com/shrutibalasa\n🎥 YOUTUBE ● https://www.youtube.com/Thirus\n📷 INSTAGRAM ● https://www.instagram.com/shruti_balasa_thirus/\n🌐 SITE ● https://www.shrutibalasa.com/\n\nFrancesco Ciulla\n✉️ NEWSLETTER ● https://francescociulla.com/newsletter\n🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n📷 INSTAGRAM ● https://www.instagram.com/francescociullaroma\n✏️ BLOG ● https://francescociulla.com\n-------------------------------------------------------------------\n*** IMPORTANT ***\n\nIf you enjoyed the video, please consider helping and donating to 🔥freeCodeCamp\n\nDonate: https://freecodecamp.org\nContribute code: https://contribute.freecodecamp.org\nGet involved in the community: https://freecodecamp.org/forum\nFor prospective authors: https://freecodecamp.org/news/developer-news-style-guide/\nFor prospective YouTube contributors: https://freecodecamp.org/news/how-to-start-a-software-youtube-channel/\n\nThank you !!"
+    },
+    "contentDetails": {
+      "videoId": "8r0oe5g_ltU",
+      "videoPublishedAt": "2020-12-18T13:40:47Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Tips from a developer who has been a recruiter - Stas Klymenko",
+      "description": "Chapters:\n\n0:00 Welcome\n1:22 Stas Story: his 2020\n4:05 Twitter from 100 subscribers to 11445 subscribers\n6:24 His activity on Twitter: Helping people\n8:10 Tags: the remdevjob tag! Resumes\n12:50 Put a picture or not in the CV? Dedicated CVs\n17:30 Cheating on resumes. Blacklists\n19:50 Companies are looking for good people\n21:35 The problem of the language\n27:20 Job opportunities page. \n30:10 Leaving feedbacks\n33:25 Socials and plans for next year\n41:51 Goodbye and compliments!"
+    },
+    "contentDetails": {
+      "videoId": "kLOhOsMxXfE",
+      "videoPublishedAt": "2020-12-19T16:00:57Z"
+    }
+  },
+  {
+    "snippet": {
+      "title": "Parenting as a Developer: How to optimize your time - Sarah Shook",
+      "description": "Important moments:\n\n      0:00 Welcome\n1:00 Sarah's story: The Start\n3:30 Powershell and other experiences\n8:25 First blog post\n11:30 Future plans\n14:50 Parenting as a developer\n19:50 Videos\n23:18 Tips for developer parents\n29:30 Thank you\n\nSarah Shook\n🌐 SITE ● https://shook.codes/ \n🐦 TWITTER ● https://twitter.com/shookcodes\n\n      Francesco Ciulla\n      ✉️ NEWSLETTER ● https://francescociulla.com/newsletter\n      🐦 TWITTER ● https://twitter.com/FrancescoCiull4\n      📷 INSTAGRAM ● https://www.instagram.com/francescoci...\n      ✏️ BLOG ● https://francescociulla.com"
+    },
+    "contentDetails": {
+      "videoId": "-7YpqB8DvnQ"
+    }
   }
 ]
