@@ -2,7 +2,7 @@ import Header from './_partials/Header'
 import Footer from './_partials/Footer'
 import Head from 'next/head'
 
-const MainLayout = ({ displayHeroSection, children }) => {
+const MainLayout = ({ children }) => {
   return (
     <div>
       <Head>

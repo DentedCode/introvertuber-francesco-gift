@@ -50,10 +50,10 @@ export default function Home({ interviews, messages, blogs }) {
             <h2 className="section-title">My Tech Stack</h2>
           </Row>
           <Row className="tech-icons">
-            <i class="fab fa-docker"></i>
-            <i class="fab fa-js-square"></i>
-            <i class="fab fa-node-js"></i>
-            <i class="fab fa-react"></i>
+            <i className="fab fa-docker"></i>
+            <i className="fab fa-js-square"></i>
+            <i className="fab fa-node-js"></i>
+            <i className="fab fa-react"></i>
           </Row>
         </Container>
       </div>
