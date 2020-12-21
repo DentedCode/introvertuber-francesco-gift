@@ -35,21 +35,25 @@ export default function CommunityLove({ messages }) {
     <MainLayout>
       <Container>
         <Row>
-          <h2 className="section-title mt-5">
-            What people say about Fransesco
-          </h2>
+          <Col>
+            <h2 className="section-title mt-5">
+              What people say about Fransesco
+            </h2>
+          </Col>
         </Row>
         <Row>
-          <h3 className="ml-auto">
-            Write something to Francesco{' '}
-            <a
-              className="font-weight-bold text-primary"
-              href="https://github.com/DentedCode/introvertuber-francesco-gift/blob/main/assets/messages.json"
-              target="_blank"
-            >
-              Here
-            </a>
-          </h3>
+          <Col>
+            <h3 className="ml-auto">
+              Write something to Francesco{' '}
+              <a
+                className="font-weight-bold text-primary"
+                href="https://github.com/DentedCode/introvertuber-francesco-gift/blob/main/assets/messages.json"
+                target="_blank"
+              >
+                Here
+              </a>
+            </h3>
+          </Col>
         </Row>
 
         <hr />

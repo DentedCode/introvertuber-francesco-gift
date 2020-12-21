@@ -12,28 +12,32 @@ export default function Home({ interviews, messages, blogs }) {
     <MainLayout>
       <div className="hero-section">
         <Container>
-          <Row className="hero-container">
-            <div className="hero-text">
-              <h1 className="font-weight-bold ">Hi, I'm Francesco Ciulla</h1>
-              <p>
-                Hi, I'm Francesco, from Rome. I am a JavaScript developer and a
-                DevOps Enthusiast. I recently discovered a passion for making
-                videos. I am also IntroverTuber.
-              </p>
-            </div>
-            <div className="hero-img  ">
-              <img
-                className="text-center"
-                src="/images/frencesco.svg"
-                alt="Picture of the owner"
-              />
-            </div>
+          <Row>
+            <Col className="hero-container">
+              <div className="hero-text">
+                <h1 className="font-weight-bold ">Hi, I'm Francesco Ciulla</h1>
+                <p>
+                  Hi, I'm Francesco, from Rome. I am a JavaScript developer and
+                  a DevOps Enthusiast. I recently discovered a passion for
+                  making videos. I am also IntroverTuber.
+                </p>
+              </div>
+              <div className="hero-img  ">
+                <img
+                  className="text-center"
+                  src="/images/frencesco.svg"
+                  alt="Picture of the owner"
+                />
+              </div>
+            </Col>
           </Row>
         </Container>
       </div>
-      <Container className="latest-community-love py-5 mt-3">
+      <Container className="  py-5 mt-3">
         <Row>
-          <h2 className="section-title">Latest Loved by Dev Community</h2>
+          <h2 className="section-title text-center">
+            Latest Loved by Dev Community
+          </h2>
         </Row>
         <Row>
           {messages.length &&
@@ -44,16 +48,19 @@ export default function Home({ interviews, messages, blogs }) {
             ))}
         </Row>
       </Container>
-      <div className="section  tech-stack  py-5 mt-3">
+      <div className="section-tech-stack  py-5 mt-3">
         <Container className="  py-5 mt-3">
           <Row>
-            <h2 className="section-title">My Tech Stack</h2>
+            <h2 className="section-title text-center">My Tech Stack</h2>
           </Row>
-          <Row className="tech-icons">
-            <i className="fab fa-docker"></i>
-            <i className="fab fa-js-square"></i>
-            <i className="fab fa-node-js"></i>
-            <i className="fab fa-react"></i>
+          <Row className="tech-stack">
+            <i className="fab fa-docker py-2"></i>
+
+            <i className="fab fa-js-square py-2 "></i>
+
+            <i className="fab fa-node-js py-2"></i>
+
+            <i className="fab fa-react py-2"></i>
           </Row>
         </Container>
       </div>
@@ -84,7 +91,9 @@ export default function Home({ interviews, messages, blogs }) {
         </Row>
       </Container>
       <Container className=" py-5 mt-3">
-        <SubscribeFormCard />
+        <Col>
+          <SubscribeFormCard />
+        </Col>
       </Container>
     </MainLayout>
   )

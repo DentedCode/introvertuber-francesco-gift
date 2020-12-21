@@ -4,7 +4,7 @@ const SubscribeFormCard = ({ handleOnchange }) => {
   return (
     <div className="">
       <Form>
-        <Form.Control placeholder="Serach ..." onChange={handleOnchange} />
+        <Form.Control placeholder="Search ..." onChange={handleOnchange} />
       </Form>
     </div>
   )

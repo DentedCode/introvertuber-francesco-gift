@@ -49,12 +49,16 @@ export default function Interview({ interviews, error }) {
     <MainLayout>
       <Container className="section latest-interviews ">
         <Row>
-          <h2 className="section-title mt-5">Watch all Tech Interviews</h2>
+          <Col>
+            <h2 className="section-title mt-5">Watch all Tech Interviews</h2>
+          </Col>
         </Row>
         <Row>
-          <div className="search-form">
-            <SearchForm handleOnchange={handleOnchange} />
-          </div>
+          <Col>
+            <div className="search-form">
+              <SearchForm handleOnchange={handleOnchange} />
+            </div>
+          </Col>
         </Row>
         <hr />
         <Row>
@@ -65,16 +69,20 @@ export default function Interview({ interviews, error }) {
               </Col>
             ))
           ) : (
-            <h3>No interview found, try to search something else.</h3>
+            <Col>
+              <h3>No interview found, try to search something else.</h3>
+            </Col>
           )}
         </Row>
         {interviews.length > pageSize && (
-          <Row className="py-5">
-            <PaginationComp
-              totalPages={totalPages}
-              handleNextClick={handleOnNextClick}
-              currentPage={currentPage}
-            />
+          <Row className="py-5 ">
+            <Col className="d-flex justify-content-right">
+              <PaginationComp
+                totalPages={totalPages}
+                handleNextClick={handleOnNextClick}
+                currentPage={currentPage}
+              />
+            </Col>
           </Row>
         )}
       </Container>

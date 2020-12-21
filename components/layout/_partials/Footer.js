@@ -1,3 +1,4 @@
+import { Container, Row, Col } from 'react-bootstrap'
 import Image from 'react-bootstrap/Image'
 const Footer = () => {
   const socials = [
@@ -27,25 +28,35 @@ const Footer = () => {
   ]
   return (
     <footer className="text-center">
-      <div className="social-links pt-4">
-        <ul className="social-link-item ">
-          {socials.map((social, i) => (
-            <li key={i}>
-              <a href={social.url} target="_blank">
-                {social.icon_ulr ? (
-                  <Image src={social.icon_ulr} with="70px" height="70px" />
-                ) : (
-                  <i className={social.icon}></i>
-                )}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-      <hr />
-      <div className="copyright small">
-        Copyright &copy; Francesco all right reserved
-      </div>
+      <Container>
+        <Row>
+          <Col>
+            <div className="social-links pt-4">
+              <ul className="social-link-item ">
+                {socials.map((social, i) => (
+                  <li key={i}>
+                    <a href={social.url} target="_blank">
+                      {social.icon_ulr ? (
+                        <Image
+                          src={social.icon_ulr}
+                          with="70px"
+                          height="70px"
+                        />
+                      ) : (
+                        <i className={social.icon}></i>
+                      )}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <hr />
+            <div className="copyright small">
+              Copyright &copy; Francesco all right reserved
+            </div>
+          </Col>
+        </Row>
+      </Container>
     </footer>
   )
 }
