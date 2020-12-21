@@ -62,21 +62,19 @@ main {
 
 footer {
   color: white;
-
   min-height: 250px;
   padding-top: 50px;
   background: url('/images/footer.svg') center bottom no-repeat;
   background-size: cover;
 }
 
-.section {
-  min-height: 400px;
-  margin-top: 3rem;
+.section-tech-stack {
+  background: #f6f5f5;
 }
 .tech-stack {
-  background: #f6f5f5;
+  font-size: 10rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .subscribe {
@@ -99,14 +97,9 @@ footer {
 }
 
 .tech-icons {
-  font-size: 8rem;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-}
-
-.tech-icons i {
-  padding: 10px;
 }
 
 ul {
@@ -135,6 +128,7 @@ ul {
 
 /* interview page */
 .search-form {
+  max-width: 350px;
   margin-left: auto;
 }
 
@@ -158,7 +152,7 @@ ul {
 
 .pagination > li > a {
   border: 1px solid var(--main-color);
-  padding: 10px 20px;
+  padding: 0.5rem 1rem;
   outline: none;
   cursor: pointer;
 }

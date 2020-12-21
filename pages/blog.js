@@ -23,10 +23,12 @@ export default function Blog({ blogs }) {
     <MainLayout>
       <Container>
         <Row className="mt-5">
-          <h4>
-            Don't want to miss any Docker related updated and Twitter developer
-            blogs.{' '}
-          </h4>
+          <Col>
+            <h4>
+              Don't want to miss any Docker related updated and Twitter
+              developer blogs.{' '}
+            </h4>
+          </Col>
         </Row>
 
         <Row>

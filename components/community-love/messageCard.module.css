@@ -1,6 +1,5 @@
 .message_card {
-  margin: 1rem;
-  width: 100%;
+  margin-bottom: 1rem;
   box-shadow: 5px 5px 15px 2px hsla(0, 0%, 56.5%, 0.8);
 }
 
