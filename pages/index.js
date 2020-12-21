@@ -19,7 +19,7 @@ export default function Home({ interviews, messages, blogs }) {
                 <p>
                   Hi, I'm Francesco, from Rome. I am a JavaScript developer and
                   a DevOps Enthusiast. I recently discovered a passion for
-                  making videos. I am also IntroverTuber.
+                  making videos. I am also <strong> IntroverTuber</strong>.
                 </p>
               </div>
               <div className="hero-img  ">
