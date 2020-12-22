@@ -52,7 +52,11 @@ const Footer = () => {
             </div>
             <hr />
             <div className="copyright small">
-              Copyright &copy; Francesco all right reserved
+              Copyright &copy; Francesco all right reserved. Made by{' '}
+              <a href="https://twitter.com/prem_ach" target="_blank">
+                Prem
+              </a>{' '}
+              as a token of appreciation.
             </div>
           </Col>
         </Row>
