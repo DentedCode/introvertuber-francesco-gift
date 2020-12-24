@@ -15,7 +15,7 @@ const Header = () => {
               <Nav.Link href="">Loved</Nav.Link>
             </Link>
             <Link href="/interview" passHref>
-              <Nav.Link>Interview</Nav.Link>
+              <Nav.Link>Interviews</Nav.Link>
             </Link>
             <Link href="/blog" passHref>
               <Nav.Link>Blog</Nav.Link>

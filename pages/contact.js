@@ -147,7 +147,7 @@ export default function Contact() {
                 </Alert>
               </div>
             )}
-            <Form onSubmit={handleFormSubmit}>
+            {/* <Form onSubmit={handleFormSubmit}>
               <Form.Group controlId="formBasicEmail">
                 <Form.Label>Email address</Form.Label>
                 <Form.Control
@@ -181,6 +181,7 @@ export default function Contact() {
                 </Row>
               )}
             </Form>
+            */}
           </Col>
         </Row>
       </Container>

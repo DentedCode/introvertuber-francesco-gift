@@ -91,9 +91,7 @@ export default function Home({ interviews, messages, blogs }) {
         </Row>
       </Container>
       <Container className=" py-5 mt-3">
-        <Col>
-          <SubscribeFormCard />
-        </Col>
+        <Col>{/* <SubscribeFormCard /> */}</Col>
       </Container>
     </MainLayout>
   )
