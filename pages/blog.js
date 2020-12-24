@@ -31,9 +31,7 @@ export default function Blog({ blogs }) {
           </Col>
         </Row>
 
-        <Row>
-          <SubscribeFormCard />
-        </Row>
+        <Row>{/* <SubscribeFormCard /> */}</Row>
         <hr />
         <Row>
           {blogs.length &&
